@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Codex 模型与额度",
+    "description": "读取本机 Codex 凭证，启用 Codex 模型路由，并显示账号计划、滚动额度消耗、额外额度与模型可用状态。",
+    "detail": "docs/DETAIL.md"
+  }
+}

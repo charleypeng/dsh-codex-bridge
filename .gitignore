@@ -1,0 +1,30 @@
+# Dependencies, build artifacts and logs
+node_modules/
+dist/
+coverage/
+.cache/
+*.tgz
+*.log
+*.tmp
+
+# Local OS/editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Credentials, local DSH/Codex state and exports
+.env
+.env.*
+!.env.example
+.codex/
+.dsh/
+auth.json
+.credentials*
+credentials.json
+models_cache*.json
+codex_bridge_models.json
+*.pem
+*.key
+*.sqlite*
+*.bak

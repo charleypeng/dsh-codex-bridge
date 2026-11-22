@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Codex models and quota",
+    "description": "Reads the local Codex credential, enables the Codex model route, and shows the account plan, rolling allowance, credits, and model availability.",
+    "detail": "docs/DETAIL.md"
+  }
+}
