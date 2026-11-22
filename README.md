@@ -1,5 +1,7 @@
 # DSH Codex Bridge
 
+English · [简体中文](README.zh.md)
+
 `@charleypeng/dsh-codex-bridge` connects DeepSeek Harness to the account signed into your local Codex client. It adds **Settings → Codex**, with quota, automatic model discovery, model picker switches, and the reasoning levels advertised by Codex. The Codex-only `ultra` orchestration mode is excluded.
 
 ## Install
